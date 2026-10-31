@@ -1,0 +1,6 @@
+# Large media — exceeds GitHub's 100 MB per-file limit.
+# The demo video is submitted separately via the capstone submission form.
+*.mp4
+*.mov
+*.avi
+*.mkv
